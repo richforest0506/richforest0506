@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="#"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=crice802&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight" />  </a>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crice802&layout=compact&theme=material-palenight" /></a> 
+  <a href="#"><img align="center"  src="https://github-readme-stats.vercel.app/api?username=RichForest0506&hide=stars,issues&include_all_commits=true&count_private=true&show_icons=true&theme=material-palenight" />  </a>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichForest0506&layout=compact&theme=material-palenight" /></a> 
   <hr>
   <h2>A little about me:</h2>
   <h3> I am a full stack software developer with an eclectic background in sales, QA, and customer service, which gives me a unique perspective to bringing humanity to tech, and tech to communities. I am not afraid of hard work or challenging myself and stepping outside my comfort zone while working with others to achieve a common goal. I take an efficient approach when it comes to coding, by breaking up jobs into smaller, more manageable sizes. I am very coachable, always willing to listen to others’ ideas and will work together to find a solution that makes the most sense for the need. 
@@ -8,10 +8,9 @@
   <hr>
   <div>
     <h3>Reach out:</h3>
-    <a href="https://crice.dev/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
-    <a href="https://www.linkedin.com/in/crice802/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
-    <a href="https://github.com/crice802"><img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
-    <a href="mailto: rcrice@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
+    <a href="https://richforestbusiness.wixsite.com/zhou/"><img src="https://img.shields.io/badge/-Personal_Website-000000?style=flat-square&logo=Coderwall&logoColor=white" />  </a>
+    <a href="https://github.com/RichForest0506"><img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
+    <a href="mailto: richforest0506@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
   </div>
   <hr>
   <div>
@@ -25,7 +24,6 @@
            <a href="#"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> </a>
             <a href="#"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> </a>
             <a href="#"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> </a> 
-            <a href="#"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" /> </a>
             <a href="#"> <img src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white" /> </a>
             <a href="#"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> </a>
             <a href="#"> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /> </a> 
