@@ -23,7 +23,7 @@ I am a full stack software developer with an eclectic background in sales, QA, a
 [<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />](#)
 [<img src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white" />](#)
 
-### Frameworks
+### Frameworks & Libraries
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](#)
 [<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />](#)
