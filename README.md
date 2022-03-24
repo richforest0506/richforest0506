@@ -7,7 +7,6 @@ I am a full stack software developer with an eclectic background in sales, QA, a
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichForest0506&card_width=250&layout=compact&theme=material-palenight)
 
 ## Reach out:
-[<img src="https://img.shields.io/badge/-Personal_Website-AA2031?style=flat-square&logo=Coderwall&logoColor=white" />](https://richforestbusiness.wixsite.com/zhou)
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/RichForest0506)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:rich.forest.business777@gmail.com)
 
