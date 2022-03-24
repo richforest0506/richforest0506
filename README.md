@@ -3,7 +3,13 @@
 ## About Me
 I am a full stack software developer with an eclectic background in sales, QA, and customer service, which gives me a unique perspective to bringing humanity to tech, and tech to communities. I am not afraid of hard work or challenging myself and stepping outside my comfort zone while working with others to achieve a common goal. I take an efficient approach when it comes to coding, by breaking up jobs into smaller, more manageable sizes. I am very coachable, always willing to listen to others’ ideas and will work together to find a solution that makes the most sense for the need. 
 
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RichForest0506&hide=issues&include_all_commits=true&count_private=true&&box_width=11&show_icons=true&theme=material-palenight)
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichForest0506&card_width=250&layout=compact&theme=material-palenight)
+
+## Reach out:
+[<img src="https://img.shields.io/badge/-Personal_Website-AA2031?style=flat-square&logo=Coderwall&logoColor=white" />](https://richforestbusiness.wixsite.com/zhou)
+[<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/RichForest0506)
+[<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:rich.forest.business777@gmail.com)
 
 ## Comfortable working in:
 [<img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />](#)
@@ -23,7 +29,7 @@ I am a full stack software developer with an eclectic background in sales, QA, a
 [<img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />](#)
 [<img src="https://img.shields.io/badge/Markdown-20232A?style=for-the-badge&logo=markdown&logoColor=white" />](#)
 
-### Frameworks & Libraries
+### Frameworks
 [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />](#)
 [<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />](#)
 [<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />](#)
