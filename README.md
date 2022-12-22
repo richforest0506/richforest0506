@@ -3,9 +3,11 @@
 ## About Me
 I am a full stack software developer with an eclectic background in sales, QA, and customer service, which gives me a unique perspective to bringing humanity to tech, and tech to communities. I am not afraid of hard work or challenging myself and stepping outside my comfort zone while working with others to achieve a common goal. I take an efficient approach when it comes to coding, by breaking up jobs into smaller, more manageable sizes. I am very coachable, always willing to listen to others’ ideas and will work together to find a solution that makes the most sense for the need. 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=RichForest0506&hide=issues&include_all_commits=true&count_private=true&&box_width=11&show_icons=true&theme=material-palenight)
-![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RichForest0506&card_width=250&layout=compact&theme=material-palenight)
-
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=richforest0506&hide=issues&include_all_commits=true&count_private=true&&box_width=11&show_icons=true&theme=material-palenight)
+![My Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=richforest0506&card_width=250&layout=compact&theme=material-palenight)
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=richforest0506&show_icons=true&theme=react" alt="Welly's github stats" />
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richforest0506&layout=compact&theme=react" alt="Welly's top languages" />
+  
 ## Reach out:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/RichForest0506)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:rich.forest.business777@gmail.com)
