@@ -5,7 +5,9 @@ I am a full stack software developer with an eclectic background in sales, QA, a
 
 [<img height="180rem" src="https://github-readme-stats.vercel.app/api?username=richforest0506&show_icons=true&theme=material-palenight" alt="Welly's github stats" />](#)
 [<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richforest0506&layout=compact&theme=material-palenight" alt="Welly's top languages" />](#)
-  
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=richforest0506&theme=onedark" alt="richforest0506" /></a> </p>
+
 ## Reach out:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/RichForest0506)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:rich.forest.business777@gmail.com)
