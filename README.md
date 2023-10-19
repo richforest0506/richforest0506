@@ -6,10 +6,6 @@ I am a full stack software developer with an eclectic background in development,
 ## Most Used Languages:
 [<img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=richforest0506&layout=compact&theme=material-palenight" alt="Zhou's top languages" />](#)
 
-## Blog Posts:
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="richforest0506" />](https://www.buymeacoffee.com/richforest0506)
-
-
 ## Reach out:
 [<img src="https://img.shields.io/github/followers/manliestben?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />](https://github.com/richforest0506)
 [<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />](https://mailto:rich.forest.business777@gmail.com)
